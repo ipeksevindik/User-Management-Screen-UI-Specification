@@ -1,6 +1,4 @@
-# User-Management-Screen-UI-Specification
-
-# User Interface Specification Document
+# User-Management-Screen-UI-Specification-Document
 
 ## Introduction
 
