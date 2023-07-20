@@ -12,7 +12,6 @@ The user interface should meet the following requirements:
 2.  Provide functionality to create new users.
 3.  Allow users to filter and sort the list of users on the result screen.
 4.  Default behavior should be to show enabled users only.
-5.  All buttons should have a blue background with white text colors.
 
 ## User Interface Components
 
